@@ -9,5 +9,5 @@ How to connect the code into Intellij or Visual Studio Code or Netbeans
 3. just change the username, and password in 'MySQLConnect' class
 4. try to run the 'FinalDB' class
 
-How to save the FinalDatabaseProjectLEC.SQL in database
+How to save the FinalDatabaseProjectLEC.SQL in database :
 mysql -u root -p DatabaseName < FinalDatabaseProjectLEC.sql
